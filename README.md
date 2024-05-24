@@ -150,7 +150,7 @@ Stay on top of your interview schedule with the Interview List. Streamline the i
 Stay organized with the Vacancy List. Keep an overview of open positions and recruitment needs.
 
 ### Add Vacancy ➕
-![Add Vacancy](/docs/admin/add_vacancy.jpg)
+![Add Vacancy](/recruitment/docs/admin/add_vacancy.jpg)
 
 Easily add new vacancies to your system with the user-friendly Add Vacancy feature. Streamline your recruitment process.
 
