@@ -7,9 +7,9 @@
 - [Thymeleaf](https://www.thymeleaf.org/) 🍃
 - [Bootstrap](https://getbootstrap.com/) 🅱️
 - [jQuery](https://jquery.com/) 📊
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) 🌐
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) 🎨
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 🚀
+- [HTML](https://developer.mozilla.org/en-US/recruitment/docs/Web/HTML) 🌐
+- [CSS](https://developer.mozilla.org/en-US/recruitment/docs/Web/CSS) 🎨
+- [JavaScript](https://developer.mozilla.org/en-US/recruitment/docs/Web/JavaScript) 🚀
 
 ### Back End
 - [Java](https://www.java.com/) ☕
@@ -97,22 +97,22 @@ Here are some screenshots from the project
 ### Client Side
 
 ### Home Page 🏠
-![Home Page](/docs/client/home_page.jpg)
+![Home Page](/recruitment/docs/client/home_page.jpg)
 
 Explore our Home Page for a welcoming and informative experience. Discover everything you need at a glance.
 
 ### All Jobs List 👥
-![All Jobs List](/docs/client/all_jobs_list.jpg)
+![All Jobs List](/recruitment/docs/client/all_jobs_list.jpg)
 
 Browse through the comprehensive All Jobs List to find the perfect opportunity for your career growth.
 
 ### Vacancy Detail 📄
-![Vacancy Detail](/docs/client/vacany_detail.jpg)
+![Vacancy Detail](/recruitment/docs/client/vacany_detail.jpg)
 
 Dive into the details of each vacancy with Vacancy Detail. Get a closer look at job descriptions and requirements.
 
 ### Job Apply Form 📝
-![Job Apply Form](/docs/client/job_apply_modalbox.jpg)
+![Job Apply Form](/recruitment/docs/client/job_apply_modalbox.jpg)
 
 Ready to take the next step in your career? Use the Job Apply Form to submit your application seamlessly.
 
@@ -120,52 +120,52 @@ Ready to take the next step in your career? Use the Job Apply Form to submit you
 ### Admin Side
 
 ### Dashboard Overview 📊
-![Dashboard Overview](/docs/admin/dashboard_overview.jpg)
+![Dashboard Overview](/recruitment/docs/admin/dashboard_overview.jpg)
 
 Get a quick snapshot of your system with our Dashboard Overview. Track essential metrics and key performance indicators at a glance.
 
 ### Dashboard Charts 📈
-![Dashboard Charts](/docs/admin/dashboard_charts.jpg)
+![Dashboard Charts](/recruitment/docs/admin/dashboard_charts.jpg)
 
 Dive deeper into data visualization with our interactive Dashboard Charts. Gain insights and make informed decisions effortlessly.
 
 ### All Candidate List 👥
-![All Candidate List](/docs/admin/all_candidate_list.jpg)
+![All Candidate List](/recruitment/docs/admin/all_candidate_list.jpg)
 
 Manage your talent pool efficiently with the All Candidate List. Access and organize candidate information effortlessly.
 
 ### All Interview Candidate List 👤
-![All Interview Candidate List](/docs/admin/all_interview_candidate_list.jpg)
+![All Interview Candidate List](/recruitment/docs/admin/all_interview_candidate_list.jpg)
 
 Keep track of interviewees seamlessly with the All Interview Candidate List. Simplify your interview process.
 
 ### Interview List 🗓️
-![Interview List](/docs/admin/interview_list.jpg)
+![Interview List](/recruitment/docs/admin/interview_list.jpg)
 
 Stay on top of your interview schedule with the Interview List. Streamline the interview process for better efficiency.
 
 ### Vacancy List 📋
-![Vacancy List](/docs/admin/vacancy_list.jpg)
+![Vacancy List](/recruitment/docs/admin/vacancy_list.jpg)
 
 Stay organized with the Vacancy List. Keep an overview of open positions and recruitment needs.
 
 ### Add Vacancy ➕
-![Add Vacancy](/recruitment/docs/admin/add_vacancy.jpg)
+![Add Vacancy](/recruitment/recruitment/docs/admin/add_vacancy.jpg)
 
 Easily add new vacancies to your system with the user-friendly Add Vacancy feature. Streamline your recruitment process.
 
 ### Email Template Form 📧
-![Email Template Form](/docs/admin/email_template_from.jpg)
+![Email Template Form](/recruitment/docs/admin/email_template_from.jpg)
 
 Personalize your communication with candidates using the Email Template Form. Craft compelling messages effortlessly.
 
 ### Customize Email From 📤
-![Customize Email From](/docs/admin/customize_email_form.jpg)
+![Customize Email From](/recruitment/docs/admin/customize_email_form.jpg)
 
 Tailor your emails with the Customize Email From feature. Add a personal touch to your communications.
 
 ### Email Draft Modal 📨
-![Email Draft Modal](/docs/admin/email_draft_modal.jpg)
+![Email Draft Modal](/recruitment/docs/admin/email_draft_modal.jpg)
 
 Preview and perfect your emails with the Email Draft Modal. Ensure your messages are polished and professional.
 
