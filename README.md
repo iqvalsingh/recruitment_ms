@@ -1,4 +1,4 @@
-# Recruitment and Interview Management System 🌐💼
+# ISMasute Management System 🌐💼
 
 
 ## Tools Used in the Project 🛠️
